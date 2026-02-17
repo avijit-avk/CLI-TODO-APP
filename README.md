@@ -1,6 +1,6 @@
 # ✅ CLI To-Do App
 
-A simple and beautiful command-line To-Do application built with Python. 
+A simple and beautiful command-line To-Do application built with Python.
 Tasks are automatically saved to a JSON file so they persist between sessions.
 
 ---
@@ -54,15 +54,15 @@ python --version
 
 ## ⚙️ Installation
 
-1. Clone the repository
+1. **Clone the repository**
 ```bash
-git clone https://github.com/yourname/cli-todo-app.git
-cd cli-todo-app
+git clone https://github.com/avijit-avk/CLI-TODO-APP.git
+cd CLI-TODO-APP
 ```
 
-2. Run the app
+2. **Run the app**
 ```bash
-python todo.py
+python cli-todo.py
 ```
 
 That's it — no installs, no setup!
@@ -86,9 +86,9 @@ Tasks are saved automatically to `tasks.json` in the same folder.
 ## 📁 Project Structure
 
 ```
-cli-todo-app/
+CLI-TODO-APP/
 │
-├── todo.py        # Main application
+├── cli-todo.py    # Main application
 ├── tasks.json     # Auto-generated task storage (git ignored)
 ├── .gitignore     # Ignores tasks.json
 └── README.md      # This file
@@ -106,6 +106,19 @@ Contributions are welcome! Here's how:
 4. Commit (`git commit -m "Add your feature"`)
 5. Push (`git push origin feature/your-feature`)
 6. Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+Made by **Avijit**
+- GitHub: [@avijit-avk](https://github.com/avijit-avk)
 
 ---
 
